@@ -1,3 +1,5 @@
+![MNet_Model](https://github.com/user-attachments/assets/dc037de9-f728-438f-b802-1dccf737fb73)
+
 # MNet
 An LTE network for Morgan Hill operating on CBRS frequencies, allowing users to view media from anywhere in town.
 
