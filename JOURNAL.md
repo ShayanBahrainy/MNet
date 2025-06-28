@@ -5,13 +5,13 @@ description: "A cellular network for sharing media (like cat videos!)"
 created_at: "2025-06-18"
 ---
 
-**Total time spent: 20h**
+**Total time spent: 29h**
 
 # June 18-20: Research
 
 I spent many hours figuring out what parts I needed and learning. Going in, I didn't know anything about cellular networks, power over ethernet, and Highway itself. I spent a lot of time reading and learning things. I learned about how the Citizens Broadband Radio Service (CBRS) provides a spectrum that is easier to access. You just have to go through a SAS (Spectrum Access Service), this is a company that manages the spectrum between the lowest priority users (You), the license providers (like T-Mobile), and the Navy. You pay them a small fee, and they tell your device when you can access the spectrum and for how long, and on what frequencies. This is a very good option for people to me as opposed to very expensive licenses from the FTC for other spectrums. For example, Auction 73, in 2008, raised 19.5 billion dollars for the FCC. Google paid 287 million dollars just to be able to bid. This shows how the CBRS is a great thing for individuals and small to medium businesses. This was just reading, so I don't have any photos. I noticed how different cellular base stations are used, inside, outside, for wireless internet service providers (WISPs). I figured out at least what class of base station I was going, something low power, and for the outdoors. 
 
-**Time spent: 6h**
+**Time spent: 10h**
 
 # June 21rd: Bill of Materials
 
@@ -24,10 +24,11 @@ I figured out how to fit all the small items necessary into the $350 budget. For
 I am working on the CAD model for this project, I am modeling the Nova227 Cell that is the heart and soul of the project. I also made a simplified model of a Raspberry Pi 4, I just made a green board with an ethernet port which is the most important part of the Raspberry Pi for this project. 
 
 I didn't know how to model ethernet good in OnShape, so I just put them on top of each other, and wired them in a separate diagram.
+I'm pretty bad at OnShape, since I only know simple stuff, and haven't used it since like 7th grade, so sorry about that.
 
 ![MNet_Model](https://github.com/user-attachments/assets/dd63a543-b0a5-464e-b461-81371285f2b9)
 
-**Time spent: 4h**
+**Time spent: 7h**
 
 # June 27th: Readme + wiring diagram
 
@@ -35,5 +36,5 @@ Today, I started by finishing up my CAD model for this project. I cleaned up my 
 
 ![Wiring for MNet](https://github.com/user-attachments/assets/cbfab261-6726-42ec-9271-a765043cc028)
 
-**Time spent: 5h**
+**Time spent: 7h**
 
