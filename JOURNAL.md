@@ -2,7 +2,7 @@
 title: "MNet"
 author: "Shayan Bahrainy"
 description: "A cellular network for sharing media (like cat videos!)"
-created_at: "2025-06-28"
+created_at: "2025-06-18"
 ---
 
 **Total time spent: 20h**
